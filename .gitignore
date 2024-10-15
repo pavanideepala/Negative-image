@@ -1,0 +1,28 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore generated image files (optional)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
